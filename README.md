@@ -127,7 +127,7 @@ A presentation (PPT) was generated using Gamma to explain insights in a clear an
 
 Clone the repository
 
-git clone https://github.com/samyakkamble/data-analytics-project.git
+git remote set-url origin https://github.com/samyakGIT-cloud/customer_behaviour_analysis.git
 
 Navigate to the project folder
 
